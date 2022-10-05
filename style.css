@@ -1,0 +1,50 @@
+div{
+   text-align: center;
+}
+
+.flex-container{
+   display: flex;
+   background: grey;
+   flex-wrap: wrap;
+   margin: 30px auto;
+   width: 600px;
+   height: 600px;
+}
+
+.flex-container2{
+   display: flex;
+   background: grey;
+   flex-wrap: wrap;
+   width: 400px;
+   height: 450px;
+}
+
+.image_1{
+   background-color: #9FED9C;
+   height: 75%;
+   flex-basis: 200px;
+}
+
+.text_1{
+   background-color: #81CDE8;
+   height: 30%;
+   flex-basis: 400px;
+}
+
+.text_2{
+   background-color: #FCFF86;
+   height: 70%;
+   flex-basis: 400px;
+}
+
+.text_3{
+   background-color: #F5C883;
+   height: 25%;
+   flex-basis: 400px;
+}
+
+.image_2{
+   background-color: #F583E9;
+   height: 25%;
+   flex-basis: 200px;
+}
